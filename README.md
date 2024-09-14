@@ -21,14 +21,3 @@ Make sure you have the following installed on your local development environment
 Node.js (v14+)
 MongoDB (v4.4+)
 
-Folder Structure:
-task-manager/
-├── config/
-│   └── db.js            # MongoDB connection setup
-├── models/
-│   └── taskModel.js      # Mongoose Task model
-├── routes/
-│   └── taskRoutes.js     # API routes for task management
-├── server.js             # Entry point for the application
-├── package.json          # Project metadata and dependencies
-└── README.md             # Documentation file
