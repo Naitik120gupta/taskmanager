@@ -21,3 +21,6 @@ Make sure you have the following installed on your local development environment
 Node.js (v14+)
 MongoDB (v4.4+)
 
+Resources used:
+https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb
+https://dev.to/zagaris/build-a-restful-crud-api-with-node-js-2334
